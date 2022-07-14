@@ -1,0 +1,70 @@
+### OSINT
+- list of processes
+- hardware information:
+-- os information? [+]
+-- cpu information [+]
+-- ram information [+]
+-- bios information [-]
+-- motherboard information
+-- graphics card information [x]
+-- network card + card mac address [x]
+-- disk drives manufacturer [-]
+-- battery information [x]
+-- disk spaces + assigned Letters [x]
+-- io ports
+-- screen resolution [x]
+- keyboard language [x]
+- current username / hostname [x]
+- system time [x]
+- geo location via ip
+- Check if user is admin
+- Check what antiviruses are installed
+- check if organisation?
+- check if in hypervisor vm
+- check blacklisted processes
+- physical location of computer via wifi names
+
+### STEALER
+- steal chrome passwords, cookies and credit cards
+- steal firefox cookies
+- steal discord tokens
+- steal telegram session Files
+- steal wifi passwords
+- filezilla stealer
+- take screenshot
+- take webcam picture
+- record user audio
+- steal clipboard content
+- keylogger
+
+### FUN COMMANDS
+- Messagebox to user
+- Trigger BSOD
+- Trigger antivirus (without detecting the malware)
+- Open a url
+- Speak text to user
+- Change user wallpaper
+- open cd / close cd
+- freeze all input for x seconds
+- rotate screen of user 
+- send keystrokes to user
+- increase or decrease volume of user
+- turn monitor on or off
+- taskkill one task
+- taskkill all tasks
+- set clipboard
+- fork bomb
+- zip bomb
+
+
+### PERSISTANCE
+- add virus to autorun
+- uninstall trojan fully
+
+### DEFENSIVE COMMANDS
+- kill a single process fast (possibly task manager)
+- set critical process protection
+- disable task manager
+- disable registry tools
+- self elevate (priv esc)
+- kill antivirus
